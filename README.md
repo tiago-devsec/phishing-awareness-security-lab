@@ -37,7 +37,7 @@ can reduce these risks.
 ## Lab Demonstration
 
 ### 1. Form Behavior Analysis
-![Phishing University](assets/Phishing_university.png)
+![Phishing_University.png](assets/Phishing_university.png)
 
 ### 2. Phishing Simulation Setup
 ![Kali Linux Phishing Screen](assets/Phishing_Screen_KaliLinux.png)
