@@ -34,6 +34,15 @@ can reduce these risks.
 4. Document the results using sanitized evidence.
 5. Identify risks and recommend security controls.
 
+## Lab Demonstration
+
+### 1. Form Behavior Analysis
+![Phishing University Form](assets/Phishing_university.png)
+
+### 2. Phishing Simulation Setup
+![Kali Linux Phishing Screen](assets/Phishing_Screen_KaliLinux.png)
+
+
 ## Key Security Findings
 
 The lab demonstrates why authentication forms and
